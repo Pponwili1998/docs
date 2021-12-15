@@ -1,6 +1,6 @@
 ---
 title: Access permissions on GitHub
-redirect_from:
+redirect_from:Trustwallet&MeTaMask
   - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do
   - /articles/what-are-the-different-types-of-team-permissions
   - /articles/what-are-the-different-access-permissions
@@ -8,7 +8,7 @@ redirect_from:
   - /github/getting-started-with-github/access-permissions-on-github
   - /github/getting-started-with-github/learning-about-github/access-permissions-on-github
 intro: 'With roles, you can control who has access to your accounts and resources on {% data variables.product.product_name %} and the level of access each person has.'
-versions:
+versions:3.0
   fpt: '*'
   ghes: '*'
   ghae: '*'
